@@ -3,29 +3,35 @@ h1 {
 }
 
 h2 {
-  text-align: center;
+  text-align: left;
 }
 
 h3 {
-  text-align: center;
+  text-align: left;
+}
+
+body {
+  font-family: helvetica;
 }
 .sidebar {
   float: right;
   border: solid #37351e;
   padding: 12px;
   background-color: #b8b264;
-
 }
 
-.column{
-  width: 350px;
+.column {
+  width: 300px;
   float: left;
-  margin: 5px;
+  
 }
+
 .logo {
   float: left;
 }
+/*
 .right-column {
   float: right;
   width: 500px;
 }
+*/
