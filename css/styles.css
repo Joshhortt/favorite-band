@@ -1,37 +1,32 @@
+
 h1 {
   text-align: center;
+  color: #939190;
 }
 
 h2 {
   text-align: left;
-}
-
-h3 {
-  text-align: left;
+  margin-left: 20px;
 }
 
 body {
-  font-family: helvetica;
+  font-family: arial;
 }
+
 .sidebar {
   float: right;
   border: solid #37351e;
   padding: 12px;
-  background-color: #b8b264;
+  background-color: #c9c9c9;
+  margin-right: 90px;
 }
 
 .column {
-  width: 300px;
+  width: 360px;
   float: left;
-  
+  margin: 20px;
 }
 
 .logo {
-  float: left;
+  margin: 20px;
 }
-/*
-.right-column {
-  float: right;
-  width: 500px;
-}
-*/
